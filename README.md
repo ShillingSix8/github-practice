@@ -7,8 +7,4 @@ Add your names here:
 
 - Aaron
 
-***Github Practice 2***
-
-Updated 
-
 - Ben
